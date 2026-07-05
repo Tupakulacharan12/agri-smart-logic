@@ -23,7 +23,7 @@ function Home() {
               <Leaf className="h-3.5 w-3.5" /> Smart Agricultural Production Optimization
             </span>
             <h1 className="mt-5 font-display text-5xl font-bold leading-[1.05] text-foreground sm:text-6xl md:text-7xl">
-              Grow the <span className="bg-hero bg-clip-text text-transparent">right crop</span>,
+              Grow the <span className="bg-hero bg-clip-text text-transparent [-webkit-background-clip:text] [-webkit-text-fill-color:transparent]">right crop</span>,
               for the right soil.
             </h1>
             <p className="mt-6 max-w-2xl text-lg text-muted-foreground">
