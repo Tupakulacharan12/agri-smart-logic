@@ -103,7 +103,7 @@
   h1, h2, h3, h4 { font-family: var(--font-display); letter-spacing: -0.02em; }
 }
 
-@utility bg-hero { background: var(--gradient-hero); }
+@utility bg-hero { background-image: var(--gradient-hero); }
 @utility bg-leaf { background: var(--gradient-leaf); }
 @utility bg-earth { background: var(--gradient-earth); }
 @utility shadow-soft { box-shadow: var(--shadow-soft); }
